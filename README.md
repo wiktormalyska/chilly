@@ -1,2 +1,2 @@
-# chilly
+# 🌶️Chilly
 Fabric Modpack 
